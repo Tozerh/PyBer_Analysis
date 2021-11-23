@@ -42,6 +42,6 @@ Urban riders account for 62.7% of all of PyBer's fares in this data set and are 
 
 2) Parallel to the first recommendation above, Pyber might also give riders incentives and discounts to encourage more rides in suburban and rural settings to increase revenue in these areas. The demand seems to be there, and discounts and deals might be a nice catalyst to an increased uptake of PyBer's services in these areas. 
 
-3) 
+3) Given that there are many more riders than drivers in urban areas, there may be some slack that can be picked up in terms of incetivizing more rides. PyBer might consider selling packages of rides that expire each week to ensure that customers continue to use their services. Urban settings are very competitive in terms of transportation options, and PyBer should do everything that it can to ensure repeat customers on their platform. 
 
 
