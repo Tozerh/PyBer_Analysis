@@ -12,9 +12,21 @@ This project focused on collecting and slicing data sets to prepare for a presen
 
 The results of our analysis are helpful in understanding PyBer's rideshare data. Before diving in, here's the summary dataframe: 
 
-![Pyber Summary](https://github.com/Tozerh/PyBer_Analysis/blob/main/PyBer%20Summary.PNG)
-          
+![PyBer Summary](https://github.com/Tozerh/PyBer_Analysis/blob/main/PyBer%20Summary.PNG)
 
-## Suggestions to Modify Code for Other Elections
+The PyBer data summary above provides some key details on the differences between ride share usage in the different city types we explored: urban, suburban, and rural:
+
+- *Urban riders tend to take more rides than any other city type, but also pay less per ride based on average fare.* This points to a couple of options for PyBer: We could increase premiums for urban riders in order to boost revenues and/or we could consider lowering costs for rural riders to increase uptake of PyBer's services, which should result in long-term profitability for this sector of PyBer's business. 
+- *Average Fare per Driver is highest in the Rural city type.* Without data on distance per ride it is difficult to say for sure, but drivers in rural areas may be taking longer trips, resulting in a higher fare for each ride. Given that rural areas are definitionally more spread out than urban or suburban areas, this thesis does track with our data. It is also possible that PyBer is increasing premiums for rural riders in order to incentivize drivers to actually use PyBer as an income source. 
+
+- *There are many more drivers in cities than in other settings.* 
+![Driver by Type](https://github.com/Tozerh/PyBer_Analysis/blob/main/Resources/total_drivers_by_type.png)
+The data show that there are just under five times more drivers in urban settings than suburban settings and almost thirty-one times more drivers in urban settings than rural. This data suggests that urban drivers are more likely to pick up a few trips here and there, with fewer urban drivers relying on PyBer as a main driver for their income. 
+
+- *Urban centers are currently the largest profit center for PyBer.* 
+![Fare % by Type](https://github.com/Tozerh/PyBer_Analysis/blob/main/Resources/total_fares_by_type.png)
+
+
+## Business Recommendations
 
 
